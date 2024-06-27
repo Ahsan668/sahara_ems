@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505083670268",
+    "firebase_url": "https://sahara-ems-default-rtdb.firebaseio.com",
+    "project_id": "sahara-ems",
+    "storage_bucket": "sahara-ems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505083670268:android:3fddd65b9c57bd80d5b179",
+        "android_client_info": {
+          "package_name": "com.example.sahara_ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505083670268-30cjppojjp478l3ra0k4226valn22vpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7h4vjHNn9XQ5E8yeyjaVy-c_x7ExMa54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505083670268-30cjppojjp478l3ra0k4226valn22vpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505083670268-qdv1d253ttpk68edi0ede1bc45igfuu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saharaEms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
