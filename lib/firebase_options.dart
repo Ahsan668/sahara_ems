@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBARzf0C5erqStnJaO3HZu5HKY-pq9VNPc',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:505083670268:ios:1c90f858570d91f7d5b179',
     messagingSenderId: '505083670268',
     projectId: 'sahara-ems',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBARzf0C5erqStnJaO3HZu5HKY-pq9VNPc',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:505083670268:ios:1c90f858570d91f7d5b179',
     messagingSenderId: '505083670268',
     projectId: 'sahara-ems',
